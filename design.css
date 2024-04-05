@@ -1,6 +1,28 @@
 .color{
     color: crimson;
 }
-.bg{
+.div1{
+    border: 5px dotted blue;
+}
+.div1 h4{
     background-color: aquamarine;
+    font-style: oblique;
+}
+.div2 {
+    background-color: rgb(216, 192, 238);
+}
+.div2 li {
+    
+    font-style: italic;
+    color: rgb(5, 29, 136);
+
+}
+.div3{
+    background-color: rgb(250, 164, 164);
+}
+.sec{ 
+    border: 6px solid chocolate;
+    margin: 100px;
+    background-color: rgb(204, 255, 255);
+    padding: 100px 60px;
 }
